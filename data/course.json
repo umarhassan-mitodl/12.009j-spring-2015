@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ]
+  ],
+  "legacy_uid": "00aca968-b801-6839-349d-88a581f93571",
+  "instructors": {
+    "content": [
+      "728ffe86-d083-ff18-71ad-71d94ca80371"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9e11b73d-7a35-8907-166b-8c1b41463f01",
+    "website": "12-009j-theoretical-environmental-analysis-spring-2015"
+  },
+  "course_title": "Theoretical Environmental Analysis",
+  "course_description": "This course analyzes cooperative processes that shape the natural environment, now and in the geologic past. It emphasizes the development of theoretical models that relate the physical and biological worlds, the comparison of theory to observational data, and associated mathematical methods.\n",
+  "department_numbers": [
+    "12",
+    "18"
+  ],
+  "extra_course_numbers": "18.352J",
+  "primary_course_number": "12.009J",
+  "course_image_thumbnail": {
+    "content": "db212cd6-89e8-a914-caf4-7e115dbdc225",
+    "website": "12-009j-theoretical-environmental-analysis-spring-2015"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "e24d81bb-99bf-4bbd-8a8b-63172a7543e9",
+  "site_short_id": "12.009j-spring-2015",
+  "site_url_path": "courses/12-009j-theoretical-environmental-analysis-spring-2015",
+  "title": "Course Metadata"
+}
